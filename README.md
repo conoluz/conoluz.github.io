@@ -8,4 +8,4 @@ El siguiente repositorio aloja las imágenes, el maquetado y estilos de un árbo
 - CSS
 
 ## Resultado
-[url](https://conoluz.github.io/)
+[https://conoluz.github.io/](url)
